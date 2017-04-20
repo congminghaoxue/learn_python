@@ -22,5 +22,5 @@ def decode_base64(data):
 if __name__ == "__main__":
     try:
         print(decode_base64(sys.argv[1]))
-    catch Exception:
+    except:
         print('Please input the base64 string!')
