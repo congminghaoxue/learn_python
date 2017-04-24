@@ -4,7 +4,7 @@
 import sys
 
 if sys.version_info.major > 2:
-    import http.server as htts_server
+    import http.server as http_server
     import socketserver
 else:
     import SimpleHTTPServer as http_server
