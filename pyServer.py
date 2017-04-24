@@ -1,13 +1,18 @@
-#!/usr/bin/env /Users/zhoubo/anaconda2/envs/py3/bin/python
+#!/usr/bin/env python
 # encoding: utf-8
 
-import http.server
-from http.server import HTTPServer, BaseHTTPRequestHandler
-import socketserver
+import sys
+
+if sys.version_info.major > 2:
+    import http.server as htts_server
+    import socketserver
+else:
+    import SimpleHTTPServer as http_server
+    import SocketServer as socketserver
 
 PORT = 8080
 
-Handler = http.server.SimpleHTTPRequestHandler
+Handler = http_server.SimpleHTTPRequestHandler
 
 Handler.extensions_map={
     '.manifest': 'text/cache-manifest',
