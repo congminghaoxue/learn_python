@@ -10,8 +10,6 @@ else:
     import SimpleHTTPServer as http_server
     import SocketServer as socketserver
 
-PORT = 8080
-
 Handler = http_server.SimpleHTTPRequestHandler
 
 Handler.extensions_map={
@@ -24,11 +22,11 @@ Handler.extensions_map={
     '.js':'application/x-javascript',
     '.md':'text/x-markdown',
     '': 'application/octet-stream', # Default
-    }
+}
 
-httpd = socketserver.TCPServer(("", PORT), Handler)
-
-print("serving at port", PORT)
+PORT = 8080
+httpd = socketserver.TCPServer(("zhoub-api.easygaokao.com", PORT), Handler)
+print('serving at port: {}'.format(PORT))
 try:
     httpd.serve_forever()
 except KeyboardInterrupt:
