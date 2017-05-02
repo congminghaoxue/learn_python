@@ -11,7 +11,7 @@ call plug#begin('~/.local/share/nvim/plugged')
   Plug 'ctrlpvim/ctrlp.vim'
   Plug 'wesleyche/SrcExpl'
   Plug 'majutsushi/tagbar'
-  Plug 'taglist.vim'
+  Plug 'vim-scripts/taglist.vim'
   Plug 'rizzatti/dash.vim'
 " completion/coding
   Plug 'Valloric/YouCompleteMe'
@@ -199,10 +199,11 @@ call plug#end()
     let Tlist_File_Fold_Auto_Close=1
     let Tlist_WinWidth=30
     let Tlist_Use_Right_Window=1
+    let g:Tlist_Ctags_Cmd='/usr/local/bin/ctags'
   " YouCompleteMe
     let g:ycm_confirm_extra_conf=0
-    let g:ycm_python_binary_path = '/usr/bin/python'
-    let g:ycm_server_python_interpreter = '/usr/bin/python'
+    let g:ycm_python_binary_path = '/usr/local/bin/python'
+    let g:ycm_server_python_interpreter = '/usr/local/bin/python'
     let g:ycm_autoclose_preview_window_after_completion=1
     let g:ycm_filetype_blacklist = {
       \ 'tagbar' : 1,
