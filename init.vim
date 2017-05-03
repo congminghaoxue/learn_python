@@ -28,6 +28,7 @@ call plug#end()
   set fileencodings=ucs-bom,utf-8,gbk,gb18030,big5,cp936,latin-1
   set fileformat=unix
   set fileformats=unix,dos,mac
+  set number
   filetype on
   filetype plugin on
   filetype plugin indent on
@@ -35,8 +36,8 @@ call plug#end()
 " Some useful settings
   set smartindent
   set expandtab         "tab to spaces
-  set tabstop=2         "the width of a tab
-  set shiftwidth=2      "the width for indent
+  set tabstop=4         "the width of a tab
+  set shiftwidth=4      "the width for indent
   set foldenable
   hi Folded ctermbg=242
 
@@ -87,6 +88,7 @@ call plug#end()
       "如果文件类型为python
       if &filetype == 'python'
           call setline(1, "\#!/usr/bin/env python")
+          call append(1, "\# @Author: zhoubo(congminghaoxue@gmail.com)")
           call append(1, "\# encoding: utf-8")
       endif
   
@@ -129,7 +131,7 @@ call plug#end()
   map <C-h> <C-W>h
   map <C-l> <C-W>l
   " <F4> => popup the file tree navigation)
-    nmap <F4> :NERDTreeToggle<CR>
+  nmap <leader>n :NERDTreeToggle<CR>
   " t[number] => switch to the file showed in the top tabs
   " t[ t] => prev tab/next tab
     nmap t1 <Plug>AirlineSelectTab1
