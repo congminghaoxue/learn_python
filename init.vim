@@ -19,6 +19,12 @@ call plug#begin('~/.local/share/nvim/plugged')
   Plug 'scrooloose/nerdcommenter'
   Plug 'tpope/vim-surround'
   Plug 'junegunn/vim-easy-align'
+" php 
+"  Plug 'arnaud-lb/vim-php-namespace'
+"  Plug '2072/PHP-Indenting-for-VIm'
+"  Plug 'shawncplus/phpcomplete.vim'
+"  Plug 'm2mdas/phpcomplete-extended-laravel'
+"  Plug 'StanAngeloff/php.vim'
 call plug#end()
 
 " Fundamental settings
@@ -111,8 +117,8 @@ call plug#end()
   set t_ti= t_te=
   set cursorline       "hilight the line that the cursor exists in
   set cursorcolumn     "hilight the column that the cursor exists in
-   hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
-   hi CursorColumn cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
+"   hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
+"   hi CursorColumn cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
   set nowrap           "no line wrapping
   let $NVIM_TUI_ENABLE_TRUE_COLOR=1
   set scrolloff=7      " 在上下移动光标时，光标的上方或下方至少会保留显示的行数
@@ -124,7 +130,7 @@ call plug#end()
   " ,, => escape to normal mode
   imap ,, <Esc>
   " <esc> => go back to normal mode (in terminal mode)
-  tnoremap <Esc> <C-\><C-n> 
+  " tnoremap <Esc> <C-\><C-n> 
   " use t{h,j,k,l} to switch between different windows
   map <C-j> <C-W>j
   map <C-k> <C-W>k
@@ -217,3 +223,16 @@ call plug#end()
       \ 'infolog' : 1,
       \ 'mail' : 1
     \}
+
+" for php 
+" Put at the very end of your .vimrc file.
+"
+"function! PhpSyntaxOverride()
+"  hi! def link phpDocTags  phpDefine
+"  hi! def link phpDocParam phpType
+"endfunction
+"
+"augroup phpSyntaxOverride
+"  autocmd!
+"  autocmd FileType php call PhpSyntaxOverride()
+"augroup END
