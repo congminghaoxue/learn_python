@@ -24,4 +24,3 @@ if __name__ == "__main__":
         print(decode_base64(sys.argv[1]))
     except:
         print('Please input the base64 string!')
-        sys.
