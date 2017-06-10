@@ -5,6 +5,7 @@
 # @Link    : http://onlyus.online
 # @Version : $Id$
 
+import os
 
 def show_content(file, paginate):
     """
@@ -19,4 +20,4 @@ def show_content(file, paginate):
                 _ = input()
 
 if __name__ == '__main__':
-    show_content('/Users/zhoubo/.vimrc', 25)
+    show_content(os.environ['HOME']+'/.vimrc', 25)
