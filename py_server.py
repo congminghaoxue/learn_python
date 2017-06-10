@@ -21,6 +21,7 @@ Handler.extensions_map={
     '.css':'text/css',
     '.js':'application/x-javascript',
     '.md':'text/x-markdown',
+    '.markdown':'text/x-markdown',
     '': 'application/octet-stream', # Default
 }
 
