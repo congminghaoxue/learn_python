@@ -161,7 +161,7 @@ call plug#end()
   " ti => taglist
     nmap ti :TagbarClose<CR>:Tlist<CR>
   " \jd => GoTo the definition
-    nnoremap <leader>jd :YcmCompleter GoTo<CR>
+  "  nnoremap <leader>jd :YcmCompleter GoTo<CR>
   " Neoterm
 
 
