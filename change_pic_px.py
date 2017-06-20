@@ -28,7 +28,7 @@ if __name__ == "__main__":
     parser.add_argument('-f', '--file', required=True, help='the file path of the input file');
     parser.add_argument('-H', '--height',type=int, required=True, help='height of the output file');
     parser.add_argument('-W', '--width',type=int, required=True, help='width of the output file')
-    parser.add_argument('-T', '--type',type=int, required=False, help='the type of the output file: jpeg, git, png ,etc')
+    parser.add_argument('-T', '--type', required=False, help='the type of the output file: jpeg, git, png ,etc')
     args = parser.parse_args()
     filein = args.file
     width = args.width
