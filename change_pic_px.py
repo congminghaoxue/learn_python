@@ -34,9 +34,9 @@ if __name__ == "__main__":
     width = args.width
     height = args.height
     f,e = os.path.splitext(filein)
-    fileout = f +"_"+str(width)+"_"+str(height)+e
     if args.type == None:
         type = 'png'
     else:
         type = args.type
+    fileout = f +"_"+str(width)+"_"+str(height)+'.'+type
     ResizeImage(filein, fileout, width, height, type)
