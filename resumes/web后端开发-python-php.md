@@ -1,14 +1,14 @@
-# 周博 -- web后端开发
+### 周博 -- web后端开发
 
-住址：北京昌平回龙观
-户口：河南安阳滑县
-工作经验：7年
-联系方式：18500426633
-E-mail: congminghaoxue@gmail.com
-
+住址：北京昌平回龙观    
+户口：河南安阳滑县    
+工作经验：7年    
+联系方式：18500426633    
+E-mail: congminghaoxue@gmail.com    
+GitHub: [github.com/congminghaoxue](https://github.com/congminghaoxue)
 ## 自我介绍
 
-> 四年运维，三年后端开发经验。学习能力强，爱好学习新技术。喜欢Linux和开源软件。
+> 四年运维，三年后端开发经验，喜欢Linux和开源软件。
 
 ## 工作经验
 
@@ -48,10 +48,7 @@ E-mail: congminghaoxue@gmail.com
 6. zabbix监控系统和应用
 7. 搭建ELK日志分析管理系统
 
-> 2013年之前在郑州从事IT技术支持和服务器运维工作
-
-[我的GitHub](https://github.com/congminghaoxue)
-
+#### 2013年之前在郑州从事IT技术支持和服务器运维工作
 
 ## 教育经历
 
