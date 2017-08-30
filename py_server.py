@@ -28,8 +28,8 @@ Handler.extensions_map={
 }
 m=Handler.extensions_map
 m.update(dict([(k, v + ';charset=UTF-8') for k, v in m.items()]));
-PORT = 8080
-httpd = socketserver.TCPServer(("localhost", PORT), Handler)
+PORT = 8081
+httpd = socketserver.TCPServer(("0.0.0.0", PORT), Handler)
 print('serving at port: {}'.format(PORT))
 try:
     httpd.serve_forever()
