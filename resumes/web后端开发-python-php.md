@@ -8,7 +8,7 @@ E-mail: congminghaoxue@gmail.com
 GitHub: [github.com/congminghaoxue](https://github.com/congminghaoxue)
 ## 自我介绍
 
-> 四年运维，三年后端开发经验，喜欢Linux和开源软件。
+> 四年Linux运维，三年web全栈开发，略懂iOS和安卓开发，擅长python和PHP。拥有高并发经验。
 
 ## 工作经验
 
