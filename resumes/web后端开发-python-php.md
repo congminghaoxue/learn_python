@@ -2,13 +2,13 @@
 
 住址：北京昌平回龙观    
 户口：河南安阳滑县    
-工作经验：7年    
+工作经验：8年    
 联系方式：18500426633    
 E-mail: congminghaoxue@gmail.com    
 GitHub: [github.com/congminghaoxue](https://github.com/congminghaoxue)
 ## 自我介绍
 
-> 四年Linux运维，三年web全栈开发，略懂iOS和安卓开发，擅长python和PHP。拥有高并发经验。
+> 四年Linux运维，三年web全栈开发，略懂iOS和安卓开发，熟悉python和PHP。拥有一定的高并发经验。
 
 ## 工作经验
 
@@ -52,4 +52,4 @@ GitHub: [github.com/congminghaoxue](https://github.com/congminghaoxue)
 
 ## 教育经历
 
-##### 2007/09 -- 2010/06     河南大学|计算机科学与技术|大专
+##### 2007/09 -- 2009/06     河南大学|计算机科学与技术|大专
