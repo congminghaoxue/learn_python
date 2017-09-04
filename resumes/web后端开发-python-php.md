@@ -2,7 +2,7 @@
 
 住址：北京昌平回龙观    
 户口：河南安阳滑县    
-工作经验：7年    
+工作经验：8年    
 联系方式：18500426633    
 E-mail: congminghaoxue@gmail.com    
 GitHub: [github.com/congminghaoxue](https://github.com/congminghaoxue)
@@ -48,8 +48,8 @@ GitHub: [github.com/congminghaoxue](https://github.com/congminghaoxue)
 6. zabbix监控系统和应用
 7. 搭建ELK日志分析管理系统
 
-#### 2013年之前在郑州从事IT技术支持和服务器运维工作
+#### 2009年-2013年之前在郑州从事IT技术支持和服务器运维工作
 
 ## 教育经历
 
-##### 2007/09 -- 2010/06     河南大学|计算机科学与技术|大专
+##### 2007/09 -- 2009/06     河南大学|计算机专业|大专
