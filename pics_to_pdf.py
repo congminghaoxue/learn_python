@@ -5,7 +5,17 @@
 import os, argparse
 import os.path
 from fpdf import FPDF
+class PDF(FPDF):
 
+
+    # Page footer
+    def footer(self):
+        # Position at 1.5 cm from bottom
+        self.set_y(-15)
+        # Arial italic 8
+        self.set_font('Arial', 'I', 8)
+        # Page number
+        self.cell(0, 10, "Suooter内部使用，禁止传播", 0, 0, 'C')
 def main():
 
 	parser = argparse.ArgumentParser(description="Tool for pictures to pdf file")
