@@ -1,0 +1,367 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"><head><meta name="ProgId" content="Word.Document" /><meta name="Generator" content="Microsoft Word 12" /><meta name="Originator" content="Microsoft Word 12" /><link rel="File-List" href="resume_word1.files/filelist.xml" /><link rel="Edit-Time-Data" href="resume_word1.files/editdata.mso" /><link rel="themeData" href="resume_word1.files/themedata.thmx" /><link rel="colorSchemeMapping" href="resume_word1.files/colorschememapping.xml" />
+          <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.25 磅</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><[endif]-->
+        <!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+        
+        <style type="text/css">
+          td,p,div,span {font-size:12px;color:#000000;font-family:宋体;}
+          td{line-height:20px;}
+          .btnbox{ width:600px; height:100px;}
+          .yelline{height:3px;  width:176px; float:left; margin-top:12px; font-size:1;}
+          .btnbox-mid{  float:left; text-align:center}
+          .btnbox-yelbtn{font:500 20px Microsoft YaHei; color:#fff; padding:5px 10px; background-color:#eb6100; text-decoration:none;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px; border-bottom:2px #e54d00 solid; }
+          .Clicktext{ color:#004e9c}
+          .footercont{width:600px; border-top:1px #e1e1e1 solid;text-align:center;line-height:20px; padding:10px 0;background:#f6f7f9;color:#a3a4a9;}
+          .space-left{padding-left:3px;}
+          .space{padding:0 3px 0 3px}
+        </style></head><span style="display:none;">
+          智联简历-简历：JR090223317R90250000000</span><table width="640" cellpadding="0" cellspacing="0" border="0"><tr height="85"><td align="right" width="213"><img src="https://img00.zhaopin.cn/2014/c/img/logo15624.png" width="201" height="70" /></td><td /></tr><tr><td height="3" colspan="2" /></tr><tr><td height="3" colspan="2" /></tr><tr><td height="10" /></tr></table><table width="640" align="center" cellpadding="0" cellspacing="0" border="0" style="font-size: 14px;font-family: 宋体;"><tr><td><table width="640" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td colspan="3" height="10" /></tr><tr><td valign="top" width="466"><table width="466" cellpadding="0" cellspacing="0" border="0" style="word-break: break-all; word-wrap:break-word;"><tr style="width:100%;height:50px"><td style="font-size:22px;color:#333333;font-family:'微软雅黑';padding-left:12px;line-height:50px">周博</td></tr><tr width="466" style="height:30px"><td width="466" style="font-size:12px;color:#000000;line-height:24px;padding-left:12px;word-break: break-all; word-wrap:break-word;"><font style="font-weight:bold">Male</font><small>|</small><font style="font-weight:bold">7Years' Experience</font><small>|</small><font style="font-weight:bold"> Born in
+                                  1987/
+                                  2</font><small>|</small><font style="font-weight:bold">Single</font><br />Location：BEIJING-Changping<small>|</small>Associate<small style="word-break:break-all;" class="space-left">|</small>
+                                  HUKOU：HENAN-ANYANG<br />Phone：185****6633<br />E-mail：<a href="mailto:congmingha****@foxmail.com">congmingha****@foxmail.com</a></td></tr></table></td><td width="80"><div class="photo" style="padding: 0px 5px 5px 5px"><a target="_blank" href="https://mypics.zhaopin.com/pic/2013/1/25/0928778AAE114454B58D0E4BAB9277E6.jpg"><img border="
+                                  0
+                                " width="
+                                  70
+                                " height="
+                                  90
+                                " style="
+                                  vertical-align:middle
+                                " src="https://mypics.zhaopin.com/pic/2013/1/25/0928778AAE114454B58D0E4BAB9277E6.jpg" /></a></div></td><td width="6" /></tr><tr><td colspan="3" height="10" /></tr></table></td></tr><tr><td height="10" /></tr><tr><td><table width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="word-break: break-all; word-wrap:break-word;"><tr><td><table width="600" height="30" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;word-break: break-all; word-wrap:break-word;"><span style="color:#ffffff;font-size:14px;">Self-Assessment</span></td></tr></table><table width="600"><tr><td colspan="2" height="5" /></tr><tr><td colspan="2" style="line-height:18px;word-break:break-all;word-wrap:break-word;padding-left:12px;"> I have strong learning ability and good at English reading/writing. With years of experience in DevOps and experience in backend&nbsp;&nbsp;development.</td></tr><tr height="6"><td colspan="2" height="5"><br /></td></tr><tr><td colspan="2" height="5" /></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">Career Objective</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td width="122" align="right" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">Desired Employment：</p></td><td width="478" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">Full-time</td></tr><tr><td width="122" align="right" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">Desired Position：</p></td><td width="478" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">Internet Software Engineer、</td></tr><tr><td width="122" align="right" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"> Desired Industry：</p></td><td width="478" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">Internet/E-Commerce、Computer Software、IT Service/General IT、Computer Hardware、Telecom Operators/Service Providers</td></tr><tr><td width="122" align="right" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">Desired Location：</p></td><td width="478" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">BEIJING</td></tr><tr><td width="122" align="right" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">Expected Salary：</p></td><td width="478" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">15000-25000RMB/Month</td></tr><tr><td width="122" align="right" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">Current Situation：</p></td><td width="478" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">In 1 months</td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">Work Experience</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2016/05
+                                            Now
+                                          </p></td><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px">Suooter Education Technology Co., Ltd.</span><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">
+                                        （1years1months）
+                                      </span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; font-family:'新宋体';"><span style="display:inline-block;margin:0 2px">Senior Software Engineer</span><font style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">|</font><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">15000-25000RMB/Month</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">Internet/E-Commerce</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                          Property：Private</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                          Size：20-99</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>Work Description：</span>1.&nbsp;&nbsp;Participated in business plan, and developing code to the product.<br/>2.&nbsp;&nbsp;Develop the&nbsp;&nbsp;web application back-end interface as leader. (php, laravel, python, nodejs)<br/>3.&nbsp;&nbsp;Participate in front-end page architecture and deployment. (bootstrap, vuejs, seajs)<br/>4.&nbsp;&nbsp;Leading database modeling and maintenance. (MySQL, Redis)<br/>5.&nbsp;&nbsp;Leading build the project management. (readmine, gerrit, MediaWiki, rap, crontab, fab )<br/>6.&nbsp;&nbsp;Leading build the Operation Maintenance. (centos,nginx, mysql, php, python, redis, ali ecs, iptables, fail2ban, goaccess, google analytics, baidu analytics)</p></td></tr></table></td></tr><tr><td style="color:#333333;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2014/112016/03</p></td><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px">Beijing Testin Technology Co., Ltd.</span><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">
+                                        （1years4months）
+                                      </span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; font-family:'新宋体';"><span style="display:inline-block;margin:0 2px">PHP Software Engineer</span><font style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">|</font><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">10001-15000RMB/Month</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">Internet/E-Commerce</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                          Property：JV</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                          Size：100-499</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>Work Description：</span>1.&nbsp;&nbsp;Leading develop the Log analytic system of Qiniu cloud storage.(shell, rsync, grep, awk,elk)<br/>2.&nbsp;&nbsp;Participated in the development of my.testin.cn some modules.(lnmy, php)<br/>3.&nbsp;&nbsp;Participated in the development of pre.im some modules.(lnmp, yii2 framework,)<br/>4.&nbsp;&nbsp;Leading rebuild crash.testin.cn web site and data api.(lnmp, php)<br/>7.&nbsp;&nbsp;iOS, Android sdk develop code review.</p></td></tr></table></td></tr><tr><td style="color:#333333;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2013/062014/11</p></td><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px">Sina Game</span><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">
+                                        （1years5months）
+                                      </span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; font-family:'新宋体';"><span style="display:inline-block;margin:0 2px">IT Desktop Support</span><font style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">|</font><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">8001-10000RMB/Month</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">Online Game</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                          Property：PLC</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                          Size：1000-9999</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>Work Description：</span>1. Maintenance the company local network&nbsp;&nbsp;and&nbsp;&nbsp;telephone network, solve office computer failure <br/>2. IT Office Supplies buying and offer to worker;<br/>3. Backup the documents of company and grant the privilege to workmates;<br/>4.&nbsp;&nbsp;Manage the&nbsp;&nbsp;LINUX local server</p></td></tr></table></td></tr><tr><td style="color:#333333;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2011/082012/12</p></td><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px">Henan Tianyi Culture Communication Co., Ltd</span><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">
+                                        （1years4months）
+                                      </span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; font-family:'新宋体';"><span style="display:inline-block;margin:0 2px">it技术支持</span><font style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">|</font><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">4001-6000RMB/Month</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">Media/Publication/Films</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                          Property：Private</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                          Size：100-499</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>Work Description：</span>1. More than two hundred computers and printers running and maintenance (hardware and software); <br/>2. Three storage software DB and client configuration;&nbsp;&nbsp;<br/>3. Company web site server, DB server operation and maintenance;<br/>4. Company bbs web site administrator and user manager, DB backup , server maintenance;<br/></p></td></tr></table></td></tr><tr><td style="color:#333333;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2009/052011/06</p></td><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px">Henan Rich Information Technology Co., Ltd.</span><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">
+                                        （2years1months）
+                                      </span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; font-family:'新宋体';"><span style="display:inline-block;margin:0 2px">Server Administrator</span><font style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">|</font><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">2001-4000RMB/Month</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">Internet/E-Commerce</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                          Property：Private</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                          Size：100-499</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>Work Description：</span>1. Technical support network operation and maintenance of a variety of computer office equipment installation and configuration; <br/>2. Solve problem of computer hardware and software failure;<br/>3. Manage router,local&nbsp;&nbsp;network of&nbsp;&nbsp;company;<br/>4. Making a simple website for customers to carry out site development planning and design.</p></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">Education Background</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td width="132" style=" font-size:12px; font-family:'新宋体';" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2007/09 - 2010/06</p></td><td width="412" style="word-break: break-all; word-wrap:break-word;padding-left:12px;"><span style="display:inline-block;margin-right:12px;font-weight:normal;">Henan University</span><span style="display:inline-block;margin-right:12px;font-weight:normal;">
+                                        &nbsp;Computer Science and Technology</span><span style="display:inline-block;margin-right:12px;font-weight:normal;">
+                                          &nbsp;Unified enrollment</span><span style="display:inline-block;margin-right:12px;font-weight:normal;">
+                                        &nbsp;Associate</span></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">Certificates</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td width="54" style="padding-left:12px;">2009/06</td><td width="500" style="padding-left:12px;"><span style="display:inline-block;margin-right:12px;">CET6</span></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td width="54" style="padding-left:12px;">2009/01</td><td width="500" style="padding-left:12px;"><span style="display:inline-block;margin-right:12px;">CET4</span></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td width="54" style="padding-left:12px;">2008/03</td><td width="500" style="padding-left:12px;"><span style="display:inline-block;margin-right:12px;">Nationwide Computer Level Test Band 3A</span></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">Language Skills</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;">English：
+                                          </span><span style="display:inline-block;">
+                                            reading&writing&nbsp;proficient</span><font style="display:inline-block;padding-left:4px;">|</font><span style="display:inline-block;padding-left:4px;">
+                                            listening&speaking&nbsp;average</span></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">Professional Skills</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">python development</span><span style="display:inline-block;margin-right:4px;">
+                                        &nbsp;expert</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">24</span></td></tr><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">php development</span><span style="display:inline-block;margin-right:4px;">
+                                        &nbsp;expert</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">48</span></td></tr><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">lamp\lnmp</span><span style="display:inline-block;margin-right:4px;">
+                                        &nbsp;proficient</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">36</span></td></tr><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;margin-right:4px;">computer／IT</span><span style="display:inline-block;margin-right:4px;">
+                                        &nbsp;proficient</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:4px;">24</span></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;line-height:18px;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">honors & rewards</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;line-height:20px;padding-left:12px;word-break: break-all; word-wrap:break-word;">In the company quarterly meeting won the outstanding staff award</td></tr></table></td></tr></table></td></tr></table></html>
