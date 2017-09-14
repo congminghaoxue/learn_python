@@ -17,7 +17,7 @@ def CutImage(filein, fileout, width, height, type):
     type:输出图片类型（png, gif, jpeg...）
     '''
     img = Image.open(filein)
-    out = img.crop((0, 0, width, height))
+    out = img.crop((1, 1, width, height))
     out.save(fileout, type)
 
 if __name__ == "__main__":
