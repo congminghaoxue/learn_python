@@ -13,18 +13,18 @@ def memp(func):
     return wrap
 
 # 第一题
-# @memp
+@memp
 def fibonacci(n):
     if n <= 1:
         return 1
     return fibonacci(n - 1) + fibonacci(n - 2)
 
 
-print(fibonacci(50))
+print(fibonacci(35))
 
 
 # 第二题
-# @memp
+@memp
 def climb(n, steps):
     count = 0
     if n == 0:
@@ -35,4 +35,4 @@ def climb(n, steps):
     return count
 
 
-print(climb(10, (1, 2, 3)))
+#print(climb(10, (1, 2, 3)))
