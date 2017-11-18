@@ -1,19 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Date    : 2016-08-23 18:48:00
-# @Author  : Zhou Bo (zhoub@suooter.com)
-# @Link    : http://onlyus.online
-# function: 更改图片尺寸大小
+
+# function: 剪切更改图片尺寸大小
 import os
 import os.path
 import sys
-import getopt
 import argparse
 from PIL import Image
 
 
-def ResizeImage(filein, fileout, width, height, type):
+def CutImage(filein, fileout, width, height, type):
     '''
+    # 从左上角开始 剪切 width*height的图片
     filein:  输入图片
     fileout: 输出图片
     width: 输出图片宽度
@@ -21,7 +19,7 @@ def ResizeImage(filein, fileout, width, height, type):
     type:输出图片类型（png, gif, jpeg...）
     '''
     img = Image.open(filein)
-    out = img.resize((width, height), Image.ANTIALIAS)  # resize image with high-quality
+    out = img.crop((1, 1, width, height))
     out.save(fileout, type)
 
 
@@ -43,4 +41,4 @@ if __name__ == "__main__":
     else:
         type = args.type
     fileout = f + "_" + str(width) + "_" + str(height) + '.' + type
-    ResizeImage(filein, fileout, width, height, type)
+    CutImage(filein, fileout, width, height, type)
