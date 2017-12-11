@@ -9,7 +9,7 @@ env.password = 'bz-2016-1125'
 
 
 def update_backend():
-    print "update Backend code to aliyun"
+    print ("update Backend code to aliyun")
     with cd('~/'):   #cd用于进入某个目录
         run('sh /data/backend-git-pull-gerrit-push-ali.sh')  #远程操作用run
 def deploy():

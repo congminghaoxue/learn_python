@@ -17,10 +17,11 @@ def decode_base64(data):
     missing_padding = len(data) % 4
     if missing_padding != 0:
         data += b'='* (4 - missing_padding)
-    return base64.b64decode(data)
+    return base64.b64decode(data).decode("utf-8")
 
 if __name__ == "__main__":
-    try:
-        print(decode_base64(sys.argv[1]))
-    except:
-        print('Please input the base64 string!')
+    print(decode_base64(sys.argv[1]))
+    # try:
+    #     print(decode_base64(sys.argv[1]))
+    # except:
+    #     print('Please input the base64 string!')
