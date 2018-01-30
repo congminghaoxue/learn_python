@@ -13,21 +13,21 @@ else:
 Handler = http_server.SimpleHTTPRequestHandler
 # python -c "import SimpleHTTPServer; m = SimpleHTTPServer.SimpleHTTPRequestHandler.extensions_map; m[''] = 'text/plain'; m.update(dict([(k, v + ';charset=UTF-8') for k, v in m.items()])); SimpleHTTPServer.test();"
 
-Handler.extensions_map={
+Handler.extensions_map = {
     '.manifest': 'text/cache-manifest',
     '.html': 'text/html',
     '.txt': 'text/html',
     '.png': 'image/png',
     '.jpg': 'image/jpg',
-    '.svg':'image/svg+xml',
-    '.css':'text/css',
-    '.js':'application/x-javascript',
-    '.md':'text/x-markdown',
-    '.markdown':'text/x-markdown',
-    '': 'application/octet-stream', # Default
+    '.svg': 'image/svg+xml',
+    '.css': 'text/css',
+    '.js': 'application/x-javascript',
+    '.md': 'text/x-markdown',
+    '.markdown': 'text/x-markdown',
+    '': 'application/octet-stream',  # Default
 }
-m=Handler.extensions_map
-m.update(dict([(k, v + ';charset=UTF-8') for k, v in m.items()]));
+m = Handler.extensions_map
+m.update(dict([(k, v + ';charset=UTF-8') for k, v in m.items()]))
 PORT = 8081
 httpd = socketserver.TCPServer(("0.0.0.0", PORT), Handler)
 print('serving at port: {}'.format(PORT))

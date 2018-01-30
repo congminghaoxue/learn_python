@@ -8,21 +8,26 @@
 from os import listdir, remove
 from os.path import isdir, isfile, join
 
-my_path="/Volumes/bak/ky/"
+my_path = "/Volumes/bak/ky/"
 
 #
+
+
 def dele_aria2(f):
     if isdir(f):
         for x in listdir(f):
-            if isfile(join(f, x)) and join(f, x)[-5:] =="aria2":
+            if isfile(join(f, x)) and join(f, x)[-5:] == "aria2":
                 print(join(f, x))
             else:
-                dele_aria2(join(f,x))
-    elif f[-5:]=="aria2":
+                dele_aria2(join(f, x))
+    elif f[-5:] == "aria2":
         print(f)
+
 
 def main():
     for x in listdir(my_path):
-        dele_aria2(join(my_path,x))
+        dele_aria2(join(my_path, x))
+
+
 if __name__ == '__main__':
     main()
