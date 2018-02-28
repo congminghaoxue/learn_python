@@ -1,14 +1,14 @@
-### 周博 -- web后端开发
+# 周博 -- web后端开发
 
-住址：北京昌平回龙观    
-户口：河南安阳滑县    
-工作经验：8年    
-联系方式：18500426633    
-E-mail: congminghaoxue@gmail.com    
-GitHub: [github.com/congminghaoxue](https://github.com/congminghaoxue)
+## 基本信息
+
+###### 联系方式：18500426633 
+###### E-mail: congminghaoxue@gmail.com 
+###### GitHub: [github.com/congminghaoxue](https://github.com/congminghaoxue)
+
 ## 自我介绍
 
-> 四年Linux运维，三年web全栈开发，略懂iOS和安卓开发，熟悉python和PHP。拥有一定的高并发经验。
+> 四年Linux运维，四年web全栈开发，熟悉Python和PHP，略懂iOS和安卓开发。拥有一定的高并发经验，带过小团队。
 
 ## 工作经验
 
@@ -40,11 +40,12 @@ GitHub: [github.com/congminghaoxue](https://github.com/congminghaoxue)
 
 #### 新浪游戏 | 运维 | 2013/06 -- 2014/11
 
-1. 公司办局域网、电话网的维护，办公电脑故障解决
-2. it用品采购及发放
-3. 文档备份，文档服务器分配权限等
-4. 开发组内部开发用LINUX服务器管理(Memcached，Redis，Svn，Ftp，Nginx，Mysql，Keepalived，Apache，KVM)
-5. qemu虚拟机管理
+1. 负责平台产品的部署及维护工作，参与系统架构设计及可用性建设 ，负责运维平台管理及自动化部署和运维平台设计与开发
+2. 部署服务器系统环境及应用，包括：redhat/centos系统，nginx,tomcat,jdk,php,mysql,redis,ntp,mfs,saltstack，zabbix，logstash
+3. 在linux系统下，通过log-bin部署mysql主从同步实现读写分离，并熟练mysql常规操作，增量恢复，参数优化，权限管理，备份恢复
+4. 系统级及应用级系统，应用的常用参数调优及部署调优。syscl.conf配置文件netipv4参数调优等。
+5. 制定安全规范。及时处理日常服务器的各类故障并撰写文档，备份各应用程序、配置等；权限管理（chmod/chown）与分配等，保证服务器的最高安全。
+6. 通过shell脚本实现简单的日常任务，部署系统性能和应用的shell脚本监控。
 6. zabbix监控系统和应用
 7. 搭建ELK日志分析管理系统
 
