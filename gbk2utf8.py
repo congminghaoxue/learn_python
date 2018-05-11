@@ -60,7 +60,7 @@ def Convert_Manu( filename,in_enc='gbk', out_enc="utf-8" ):
     except IOError:
         print ("Error: "+filename+" FAIL to converted from "+ in_enc+" to "+out_enc+" !" )
 
-def explore(dir, IsLoopSubDIR=True, suffix):
+def explore(dir, suffix, IsLoopSubDIR=True):
     '''Convert files encoding.
         Input:
             dir         : Current folder
