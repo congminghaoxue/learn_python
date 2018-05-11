@@ -45,11 +45,7 @@ def check_for_duplicates(path, hash=hashlib.sha1):
             except (OSError,):
                 # not accessible (permissions, etc) - pass on
                 pass
-            duplicate = hashes_by_size.get(file_size)
-            if duplicate:
-                hashes_by_size[file_size].append(full_path)
-            else:
-                hashes_by_size[file_size].append(full_path)
+            hashes_by_size[file_size].append(full_path)
 
     # For all files with the same file size, get their hash on the 1st 1024 bytes
     for __, files in hashes_by_size.items():
@@ -59,11 +55,7 @@ def check_for_duplicates(path, hash=hashlib.sha1):
         for filename in files:
             small_hash = get_hash(filename, first_chunk_only=True)
 
-            duplicate = hashes_on_1k.get(small_hash)
-            if duplicate:
-                hashes_on_1k[small_hash].append(filename)
-            else:
-                hashes_on_1k[small_hash].append(filename)
+            hashes_on_1k[small_hash].append(filename)
 
     # For all files with the hash on the 1st 1024 bytes, get their hash on the full file - collisions will be duplicates
     for __, files in hashes_on_1k.items():
@@ -77,8 +69,9 @@ def check_for_duplicates(path, hash=hashlib.sha1):
             if duplicate:
                 if(len(filename) > len(duplicate)):
                     filename, duplicate = duplicate, filename                   
-                # remove(duplicate)
+                remove(duplicate)
                 print(duplicate)
+
             hashes_full[full_hash] = filename
 
 def main():
