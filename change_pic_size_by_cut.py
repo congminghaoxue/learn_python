@@ -26,7 +26,7 @@ def CutImage(filein, fileout, width, height, type):
 if __name__ == "__main__":
     argc = len(sys.argv)
     cmdargs = str(sys.argv)
-    parser = argparse.ArgumentParser(description="Tool to get schools given district/category/score")
+    parser = argparse.ArgumentParser(description="Tool for change the picture to custom size")
     parser.add_argument('-f', '--file', required=True, help='the file path of the input file')
     parser.add_argument('-H', '--height', type=int, required=True, help='height of the output file')
     parser.add_argument('-W', '--width', type=int, required=True, help='width of the output file')
