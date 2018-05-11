@@ -6,6 +6,7 @@ import sys
 import argparse
 import hashlib
 from os.path import isdir
+from os import remove
 
 def chunk_reader(fobj, chunk_size=1024):
     """Generator that reads a file in chunks of bytes"""
@@ -75,9 +76,11 @@ def check_for_duplicates(path, hash=hashlib.sha1):
 
             duplicate = hashes_full.get(full_hash)
             if duplicate:
-                print ("Duplicate found: %s  %d and %s %d " % (filename, len(filename), duplicate, len(duplicate)))
-            else:
-                hashes_full[full_hash] = filename
+                if(len(filename) > len(duplicate)):
+                    filename, duplicate = duplicate, filename                   
+                remove(duplicate)
+                print(duplicate)
+            hashes_full[full_hash] = filename
 
 def main():
     parser = argparse.ArgumentParser(description="Tool for delete the duplicate files")
