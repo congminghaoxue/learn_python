@@ -7,6 +7,7 @@ import argparse
 import hashlib
 from os.path import isdir
 from os import remove
+import collections 
 
 def chunk_reader(fobj, chunk_size=1024):
     """Generator that reads a file in chunks of bytes"""
@@ -33,8 +34,8 @@ def get_hash(filename, first_chunk_only=False, hash=hashlib.sha1):
 
 
 def check_for_duplicates(path, hash=hashlib.sha1):
-    hashes_by_size = {}
-    hashes_on_1k = {}
+    hashes_by_size = collections.defaultdict(list)
+    hashes_on_1k = collections.defaultdict(list)
     hashes_full = {}
     for dirpath, dirnames, filenames in os.walk(path):
         for filename in filenames:
@@ -48,7 +49,6 @@ def check_for_duplicates(path, hash=hashlib.sha1):
             if duplicate:
                 hashes_by_size[file_size].append(full_path)
             else:
-                hashes_by_size[file_size] = []  # create the list for this file size
                 hashes_by_size[file_size].append(full_path)
 
     # For all files with the same file size, get their hash on the 1st 1024 bytes
@@ -63,7 +63,6 @@ def check_for_duplicates(path, hash=hashlib.sha1):
             if duplicate:
                 hashes_on_1k[small_hash].append(filename)
             else:
-                hashes_on_1k[small_hash] = []          # create the list for this 1k hash
                 hashes_on_1k[small_hash].append(filename)
 
     # For all files with the hash on the 1st 1024 bytes, get their hash on the full file - collisions will be duplicates
@@ -78,7 +77,7 @@ def check_for_duplicates(path, hash=hashlib.sha1):
             if duplicate:
                 if(len(filename) > len(duplicate)):
                     filename, duplicate = duplicate, filename                   
-                remove(duplicate)
+                # remove(duplicate)
                 print(duplicate)
             hashes_full[full_hash] = filename
 
